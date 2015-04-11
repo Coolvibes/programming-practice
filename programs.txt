@@ -1,0 +1,40 @@
+                                                   MY PROGRAMS
+
+
+1. Remove spaces from a string: http://codepad.org/vqfSlHSL
+
+2. Generate next prime no: http://codepad.org/R8sn2hkC
+
+3. Shift all zeroes in an array to one end: http://codepad.org/D9Y2I7Ew
+
+4. All about pointers: http://ideone.com/lNJR7N
+
+5. String dereferencing in printf through pointers:http://codepad.org/ZIyVxsfZ
+   (based on test ur c skills, Q-7.18)
+
+6. Quicksort:Lomuto's Implementation: http://codepad.org/cOT1Q1kc
+
+7. Rotate a linked list anticlockwise by integer k: http://ideone.com/3JQhWj || http://codepad.org/kOuxqBB3
+
+8. Mirror a tree: http://ideone.com/Nvle8G || http://codepad.org/hpTtX4OH
+
+9. Count no. of leaf nodes in a tree: http://ideone.com/KXy5sF || http://codepad.org/qO0gOwll
+
+10.Print all root to leaf paths in a tree: http://ideone.com/fLcbyJ || http://codepad.org/EFNrBaHe
+
+11.operation of a stack: http://ideone.com/Nj4kyM || http://codepad.org/pvIsM8Pm
+
+12.Check if an integer is a palindrome:  http://ideone.com/DHugkn || http://codepad.org/bqtcLVfR
+
+13.Product of two numbers using just addition and subtraction operators: http://codepad.org/vqUx3LQZ || http://ideone.com/UFSmMf
+   (with minimum recursions)
+
+14.Reverse a singly linked list: http://ideone.com/XtufSb || http://codepad.org/A58XBLiN
+
+15.NXN Matrix Question: http://ideone.com/KZ47oB || http://codepad.org/lPFVm3Pr
+
+    More generic version: http://codepad.org/FFGHPH17
+
+16.Dutch National Flag Problem: http://ideone.com/7WoLff || http://codepad.org/kEVHyTUB
+
+17.Program to check for matching braces: http://ideone.com/nXNDLt || http://codepad.org/wXezPdhD
